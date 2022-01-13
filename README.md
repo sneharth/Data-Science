@@ -4,4 +4,4 @@ I am currently working on Bank Telemarketing dataset project and I will continue
 
 <u>Updates as of 13th January, 2022:</u>
 
-Have finished the bank telemarketing project.
+Have finished the bank telemarketing project. I will be starting off with credit card fraud detection from tomorrow.
